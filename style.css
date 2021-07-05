@@ -1,4 +1,72 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color:black;
+    font-family:arial;
+    color:white;
+    margin-top: 40px;
+}
+h1 {
+    color:grey;
+    font-family:verdana;
+    font-size: 26px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.maindiv{
+    background-color:white;
+    color:black;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 25px;
+}
+input, select {
+  position: relative;
+  left: 120px;
+  top: -35px;
+body {
+    background-color:black;
+    font-family:arial;
+    color:white;
+    margin-top: 40px;
+}
+h1 {
+    color:grey;
+    font-family:verdana;
+    font-size: 26px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.maindiv{
+    background-color:white;
+    color:black;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 25px;
+}
+input, select {
+  position: relative;
+  left: 120px;
+  top: -35px;
 
+}
+.name {
+  margin-top: -20px;
+  font-size: 16px;
+}
 
+#rate_val {
+  position: relative;
+  font-size: 12px;
+  top: -40px;
+  left: 120px;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+footer
+ {
+   margin-top: 30px;
+ }
